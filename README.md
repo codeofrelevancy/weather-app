@@ -243,6 +243,15 @@ export default function Banner({ message, link }: Props) {
 }
 ```
 
+Use Banner component
+
+```markdown
+<Banner
+  message="Get ready to learn how to build weather app with our YouTube tutorial! We can't wait to share it with you."
+  link="https://www.youtube.com/@codeofrelevancy?utm_source=weather-app&utm_medium=banner&utm_campaign=promotion"
+/>
+```
+
 ## Header
 
 Component:
